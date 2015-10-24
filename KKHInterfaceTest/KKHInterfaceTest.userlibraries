@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="commons-beanutils-1.7.0">
+    <archive path="/Users/lifengmei/Documents/KKHInterfaceTest/libs/commons-beanutils-1.7.0.jar" />
+    <archive path="/Users/lifengmei/Documents/KKHInterfaceTest/libs/commons-collections-3.2.jar" />
+    <archive path="/Users/lifengmei/Documents/KKHInterfaceTest/libs/commons-httpclient-3.1.jar" />
+    <archive path="/Users/lifengmei/Documents/KKHInterfaceTest/libs/commons-lang-2.4.jar" />
+    <archive path="/Users/lifengmei/Documents/KKHInterfaceTest/libs/commons-logging-1.1.1.jar" />
+    <archive path="/Users/lifengmei/Documents/KKHInterfaceTest/libs/ezmorph-1.0.6.jar" />
+    <archive path="/Users/lifengmei/Documents/KKHInterfaceTest/libs/json-lib-2.4-jdk15.jar" />
+  </library>
+</eclipse-userlibraries>
+
